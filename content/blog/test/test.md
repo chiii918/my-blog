@@ -1,3 +1,9 @@
+---
+title: Test post
+date: "2015-05-28T22:40:32.169Z"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+---
+
 # GitHub Markdown Kitchen Sink
 
 A large collection of code samples which have been tested against GitHub's markdown parser... so you don't have to.
