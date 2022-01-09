@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `jamkaret`,
     author: {
-      name: `nattoshiro`,
+      name: `しろ氏`,
       summary: `Blender / Web / Gadget etc.`,
     },
     description: `いろんな興味のあることについて綴ります。`,
     siteUrl: `https://jamkaret.net`,
     social: {
-      twitter: `nattoshiro`,
+      twitter: `46biscoshi`,
     },
   },
   plugins: [
@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `jamkaret`,
+        short_name: `jamkaret`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
