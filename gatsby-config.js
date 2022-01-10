@@ -58,7 +58,6 @@ module.exports = {
         trackingIds: [
           "G-5K7B0W2L1H", // Google Analytics / GA
           //"AW-CONVERSION_ID", // Google Ads / Adwords / AW
-          "DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
         ],
         pluginConfig: {
           // <head>内にタグを記述するかどうか
