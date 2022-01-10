@@ -1,15 +1,7 @@
 ---
-title: Gatsbyブログの立ち上げでつまづいたことと解決案
-date: "2022-01-10"
-modified_date: "2022-01-10"
-description: Gatsbyブログの立ち上げに際し、つまづいた時に参考にさせてもらった記事をまとめました。
-title: 記事タイトル
-category: dev
-thumbnail:
-metaDescription:
-tags: ["ブログ", "Gatsby", "Node.js", "JavaScript"]
-# path: /article-path
-
+title: マークダウン記法
+date: "2015-05-30T22:40:32.169Z"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 以下につまづいたことと解決法をまとめています。（随時更新）
