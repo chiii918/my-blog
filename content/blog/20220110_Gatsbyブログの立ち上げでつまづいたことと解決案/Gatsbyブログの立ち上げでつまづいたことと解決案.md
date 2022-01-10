@@ -1,5 +1,4 @@
 ---
-path: /article-path
 title: Gatsbyブログの立ち上げでつまづいたことと解決案
 date: "2022-01-10"
 modified_date: "2022-01-10"
@@ -9,6 +8,8 @@ category: dev
 thumbnail:
 metaDescription:
 tags: ["ブログ", "Gatsby", "Node.js", "JavaScript"]
+# path: /article-path
+
 ---
 
 以下につまづいたことと解決法をまとめています。（随時更新）
