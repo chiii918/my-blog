@@ -2,11 +2,11 @@
 # path: /
 title: Gatsbyブログの立ち上げでつまづいたことと解決案
 date: 2022-01-10
-modified_date: 2022-01-10
+modified_date: 
 description: Gatsbyブログの立ち上げに際し、つまづいた時に参考にさせてもらった記事をまとめました。
-category: dev
+category: blog
 thumbnail:
-tags: ["ブログ", "Gatsby", "Node.js", "JavaScript"]
+tags: ["ブログ", "Gatsby", "JavaScript"]
 publised: true
 ---
 
